@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Abhishek Agarwal | Mobile Engineering
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Abhishek Agarwal | Mobile Engineering 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noob-programmer1/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@noob-programmer)
@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-I architect high-performance mobile applications at **Cityflo**, leveraging the full spectrum of **Android**, **iOS**, and **Kotlin Multiplatform Mobile (KMM)** technologies to deliver exceptional user experiences.
+I'm a Mobile Engineering with deep expertise across the entire mobile ecosystem. At Cityflo, I architect and build high-performance applications that leverage the best of Android, iOS, and Kotlin Multiplatform Mobile (KMM) technologies.
 
 - 📱 Mobile architect specializing in cross-platform development with up to 80% shared codebase
 - 🚀 Google Summer of Code mentor and former participant
